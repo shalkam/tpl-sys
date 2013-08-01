@@ -1,0 +1,61 @@
+#SobiPro .pagination ul > li {
+    padding: 0 !important;
+}
+#SobiPro .pagination {
+    border: 0;
+}
+#SobiPro h1 {
+    border: 0;
+}
+
+#SobiPro .selectalpha button {
+    padding: 0;
+    width: 32px;
+}
+#SobiPro .nav-tabs {
+    margin-bottom: 2px;
+}
+
+#SobiPro .SPListing .table tr, 
+#SobiPro .SPListing .table td,
+#SobiPro .SPSearch .table tr, 
+#SobiPro .SPSearch .table td
+{
+    border-left: 0 none;
+    border-right: 0 none;
+}
+#SobiPro .SPListing .table tbody,
+#SobiPro .SPSearch .table tbody
+{
+    border: 0;
+}
+
+#SobiPro .SPListing tr.slide,
+#SobiPro .SPListing tr.slide td, 
+#SobiPro .SPSearch tr.slide,
+#SobiPro .SPSearch tr.slide td
+{
+    border-top: 0;
+}
+#SobiPro .SPListing tr.slide td,
+#SobiPro .SPSearch tr.slide td {
+    background-color: #F5F5F5 !important;
+}
+
+/*#SobiPro .tabbable .nav-tabs li a.btn-warning,
+#SobiPro .tabbable .nav-tabs li a.btn-warning.active {
+    border: none !important;
+    border-radius: 0 !important;
+    color: #fff !important;
+    background-image: none;
+    background-color: #FAA732;
+}
+#SobiPro .tabbable .nav-tabs {
+    border: none !important;
+    margin-bottom: 0;
+}
+#SobiPro .tabbable h4.btn-warning {
+    background-image: none;
+    margin-top: 0;
+    padding: 5px;
+}*/
