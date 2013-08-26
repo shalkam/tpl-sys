@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SobiProApp xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="https://xml.sigsiu.net/SobiPro/application.xsd">
+  <name>Template system for Sobipro</name>
+  <id>tplsys</id>
+  <authorName>Mostafa Shalkami</authorName>
+  <authorEmail>info@sobimarket.net</authorEmail>
+  <authorUrl>http://www.sobimarket.net</authorUrl>
+  <copyright>Copyright (C) 2009-2013 Mostafa Shalkami</copyright>
+  <license>GNU General Public License v3</license>
+  <creationDate>2013-08-26</creationDate>
+  <type>application</type>
+  <version>1.0.0</version>
+  <description>Template system for Sobipro plugin</description>
+  <files path="front:.">
+    <folder>Front</folder>
+  </files>
+  <files path="css:.">
+    <folder>Css</folder>
+  </files>
+  <files path="adm:config">
+    <file>Cfg/tplsys.php</file>
+    <file>Cfg/tplsys.ini</file>
+  </files>
+  <actions>
+  	<action>adm.*</action>
+	<action>*</action>
+  </actions>
+</SobiProApp>
