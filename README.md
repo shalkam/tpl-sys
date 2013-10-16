@@ -2,6 +2,6 @@ This Sobipro add-on makes it possible for Sobipro template developer to have fie
 
 <h3>Download</h3>
 <ul>
-<li><a href="https://github.com/shalkam/tpl-sys/blob/master/Installable%20Packages/tpl-sys.zip">tpl-sys.zip</a></li>
-<li><a href="https://github.com/shalkam/tpl-sys/blob/master/Installable%20Packages/mod_default.zip">mod_default.zip</a></li>
+<li><a href="https://github.com/shalkam/tpl-sys/blob/master/Installable%20Packages/tpl-sys.zip?raw=true">tpl-sys.zip</a></li>
+<li><a href="https://github.com/shalkam/tpl-sys/blob/master/Installable%20Packages/mod_default.zip?raw=true">mod_default.zip</a></li>
 </ul>
