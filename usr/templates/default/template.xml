@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <template xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:noNamespaceSchemaLocation="https://xml.sigsiu.net/SobiPro/template.xsd">
-	<name>Default SobiPro Template</name>
-	<id>default_template</id>
+	<name>Modified default SobiPro Template</name>
+	<id>mod_default_template</id>
 	<authorName>Sigrid Suski and Radek Suski</authorName>
 	<authorEmail>sobi[at]sigsiu.net</authorEmail>
 	<authorUrl>http://www.Sigsiu.NET</authorUrl>
@@ -11,7 +11,7 @@
 	<creationDate>2010-01-01</creationDate>
 	<version>1.0</version>
 	<description>
-		Default SobiPro Template
+		Modified default SobiPro Template for the template system
 	</description>
 	<files>
 		<file path="category/view.xsl">

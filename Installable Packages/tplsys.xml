@@ -12,11 +12,21 @@
   <type>application</type>
   <version>1.0.0</version>
   <description>Template system for Sobipro plugin</description>
-  <files path="front:.">
-    <folder>Front</folder>
+  <files path="home:.">
+    <file>init.php</file>
+    <file>template.php</file>
+  </files>
+  <files path="lib:js">
+    <folder>Js/</folder>
+  </files>
+  <files path="lib:models">
+    <folder>Models/</folder>
+  </files>
+  <files path="lib:ctrl">
+    <folder>Ctrl/</folder>
   </files>
   <files path="css:.">
-    <folder>Css</folder>
+    <folder>Css/adm</folder>
   </files>
   <files path="adm:config">
     <file>Cfg/tplsys.php</file>
