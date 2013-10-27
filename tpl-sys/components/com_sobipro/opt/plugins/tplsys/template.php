@@ -12,8 +12,8 @@
 abstract class tplPos {
 
     public static function fieldsXML($view) {
-        SPLoader::loadModel('positions');
-        $model = new SPPositionsModel;
+        SPLoader::loadModel('tplsys');
+        $model = new SPTplsysModel;
         $cfg = $model->getCfg();
         $doc = new DOMDocument(Sobi::Cfg('xml.version', '1.0'), Sobi::Cfg('xml.encoding', 'UTF-8'));
         $positions = $doc->createElement('positions');
